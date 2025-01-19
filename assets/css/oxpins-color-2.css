@@ -1,0 +1,17 @@
+:root {
+  --oxpins-font-two: "Castoro", sans-serif;
+  --oxpins-gray: #868686;
+  --oxpins-gray-rgb: 134, 134, 134;
+  --oxpins-base: #EB582F;
+  --oxpins-base-rgb: 235, 88, 47;
+  --oxpins-black: #272727;
+  --oxpins-black-rgb: 39, 39, 39;
+  --oxpins-black2: #161616;
+  --oxpins-black2-rgb: 22, 22, 22;
+  --oxpins-primary: #D34118;
+  --oxpins-primary-rgb: 211, 65, 24;
+  --oxpins-bdr-color: #F3F3F3;
+  --oxpins-bdr-color-rgb: 243, 243, 243;
+  --oxpins-bdr2-color: #dbdbdb;
+  --oxpins-bdr2-color-rgb: 219, 219, 219;
+}

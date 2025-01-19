@@ -1,0 +1,22 @@
+:root {
+  --oxpins-gray: #786F6B;
+  --oxpins-gray-rgb: 120, 111, 107;
+  --oxpins-gray2: #CAB3A8;
+  --oxpins-gray2-rgb: 202, 179, 168;
+  --oxpins-gray3: #F9F4E8;
+  --oxpins-gray3-rgb: 249, 244, 232;
+  --oxpins-gray4: #6A574F;
+  --oxpins-gray4-rgb: 106, 87, 79;
+  --oxpins-base: #5A2005;
+  --oxpins-base-rgb: 90, 32, 5;
+  --oxpins-black: #2D221D;
+  --oxpins-black-rgb: 45, 34, 29;
+  --oxpins-black2: #14110F;
+  --oxpins-black2-rgb: 20, 17, 15;
+  --oxpins-primary: #CFA76E;
+  --oxpins-primary-rgb: 207, 167, 110;
+  --oxpins-secondary: #844204;
+  --oxpins-secondary-rgb: 132, 66, 4;
+  --oxpins-bdr-color: #E9E9E9;
+  --oxpins-bdr-color-rgb: 233, 228, 217;
+}

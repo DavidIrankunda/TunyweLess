@@ -1,0 +1,452 @@
+body,
+body.boxed-wrapper .page-wrapper {
+  background-color: #212d2b;
+}
+
+.demo-one__card {
+  background-color: var(--oxpins-black);
+  box-shadow: 0px 10px 60px 0px rgba(255, 255, 255, 0.1);
+}
+
+.home-showcase__inner,
+.main-menu .main-menu__list > li > ul,
+.main-menu .main-menu__list > li > ul > li > ul,
+.stricky-header .main-menu__list > li > ul,
+.stricky-header .main-menu__list > li > ul > li > ul,
+.main-header {
+  background-color: var(--oxpins-black);
+  box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.1);
+}
+
+.main-menu__volunteers-text span::before {
+  background-color: var(--oxpins-white);
+}
+
+.error-page,
+.main-menu-two__right-top {
+  background-color: #212d2b;
+}
+
+.main-menu-three__btn-box a,
+.main-menu .main-menu__list > li > ul > li:hover > a,
+.main-menu .main-menu__list > li > ul > li > ul > li:hover > a,
+.stricky-header .main-menu__list > li > ul > li:hover > a,
+.stricky-header .main-menu__list > li > ul > li > ul > li:hover > a,
+.feature-one__btn,
+.testimonial-one__carousel.owl-theme .owl-nav .owl-next,
+.testimonial-one__carousel.owl-theme .owl-nav .owl-prev,
+.main-menu__right-top-social a {
+  background-color: #212d2b;
+  color: var(--oxpins-white);
+}
+
+.error-page__form input[type=search],
+.demo-one,
+.about-one__curved-circle-box,
+.testimonial-three__single,
+.main-menu-two__search-box:before,
+.main-menu .main-menu__list > li > ul > li > a,
+.main-menu .main-menu__list > li > ul > li > ul > li > a,
+.stricky-header .main-menu__list > li > ul > li > a,
+.stricky-header .main-menu__list > li > ul > li > ul > li > a,
+.news-two__date-two,
+.news-two__date-one,
+.contact-one__inne,
+.urgent-cause__progress .bar-inner,
+.testimonial-two__content,
+.search-popup__content .thm-btn::before,
+.testimonial-one__single,
+.about-two__progress .bar,
+.feature-two__arrow a,
+.main-menu,
+.about-one__points li .icon:before,
+.events-one,
+.faq-one {
+  background-color: var(--oxpins-black);
+}
+
+.about-four__points li .text p,
+.error-page__tagline,
+.demo-one__title,
+.megamenu-popup .megamenu-clickable--close,
+.about-one__curved-circle-box .curved-circle,
+.events-two__read-more a,
+.events-two__title a,
+.testimonial-three__client-name,
+.main-menu-two__search,
+.home-showcase__title,
+.main-menu-two__right-top-address-list li .content h5,
+.main-menu-two__right-top-address-list li .content h5 a,
+.main-menu-two__volunteers-text a,
+.news-two__title-two a,
+.news-two__date-two p,
+.news-two__date-one p,
+.contact-one__number,
+.contact-one__number a,
+.testimonial-two__client-name,
+.causes-two__tab-box .tab-buttons .tab-btn.active-btn span,
+.about-two__progress-title,
+.about-two__points li .text h4,
+.feature-two__arrow a,
+.main-menu__volunteers-text a,
+.main-menu__right-top-address-list li .content h5 a,
+.main-menu__right-top-address-list li .content h5,
+.section-title__title,
+.about-one__fund-text,
+.about-one__points li .text h5 a,
+.causes-one__title a,
+.causes-one__progress .count-text,
+.causes-one__goals > p > span,
+.faq-one-accrodion .accrodion-title h4,
+.news-one__date p,
+.news-one__title a {
+  color: var(--oxpins-white);
+}
+
+.causes-two__tab-box .tab-buttons .tab-btn span,
+.main-menu-two .main-menu__list > li > a,
+.stricky-header.main-menu-two .main-menu__list > li > a,
+.testimonial-one__text-2,
+.about-two__progress .count-text,
+body,
+.main-menu__right-top-address-list li .content p,
+.about-one__text,
+.about-one__points li .text p,
+.causes-one__text,
+.causes-one__goals > p,
+.events-one__text-1,
+.faq-one__text-1,
+.faq-one-accrodion .accrodion-content p,
+.news-one__meta li a,
+.news-one__read-more a,
+.news-one__share a {
+  color: #98a8a5;
+}
+
+.events-two__content,
+.events-two,
+.main-menu-two__right-bottom,
+.main-menu-two__right-top-address-list li:before,
+.main-menu-two__volunteers-text span:before,
+.causes-two,
+.brand-two,
+.causes-two__tab-box .tab-buttons:before,
+.main-menu__right-top-address-list li:before {
+  background-color: #31423f;
+}
+
+.testimonial-three__single,
+.testimonial-three__client-img img,
+.about-three__border,
+.news-two__content-two,
+.testimonial-two__content {
+  border-color: #324340;
+}
+
+.about-one__shape-box-1 {
+  background-color: #1e2a28;
+}
+
+.about-one__shape-1,
+.events-one-shape-1,
+.faq-one-shape-1 {
+  opacity: 0.07;
+}
+
+.faq-one-bg {
+  opacity: 0.03;
+}
+
+.causes-one__content,
+.causes-one__progress,
+.news-one__content-box {
+  background-color: var(--oxpins-black);
+  border: 1px solid #324340;
+}
+
+.news-one__bottom {
+  border-top: 1px solid #324340;
+}
+
+.causes-one__progress-shape {
+  opacity: 0.08;
+}
+
+.brand-one {
+  border-top: 1px solid #324340;
+}
+
+.brand-one .swiper-slide img {
+  opacity: 0.1;
+}
+
+.faq-one-accrodion .accrodion {
+  border: 2px solid #324340;
+  background-color: #212d2b;
+}
+
+.faq-one-accrodion .accrodion.active .accrodion-title h4 {
+  color: var(--oxpins-primary);
+}
+
+.faq-one-accrodion .accrodion .accrodion-title h4::after {
+  background-color: var(--oxpins-black);
+}
+
+.faq-one-accrodion .accrodion-title h4::before {
+  color: var(--oxpins-black);
+  background-color: var(--oxpins-white);
+}
+
+.news-one__date {
+  background-color: var(--oxpins-base);
+}
+
+.news-one__single .news-one__title:hover a {
+  color: var(--oxpins-primary);
+}
+
+.news-one__single .news-one__read-more:hover a {
+  color: var(--oxpins-primary);
+}
+
+.news-one__single:hover .news-one__share a {
+  color: var(--oxpins-primary);
+}
+
+.causes-one__progress .bar {
+  background: #3e4b49;
+}
+
+.events-one__carousel.owl-theme .owl-nav .owl-prev {
+  color: rgba(var(--oxpins-white-rgb), 0.2);
+  border: 2px solid rgba(var(--oxpins-white-rgb), 0.2);
+}
+
+.events-one__carousel.owl-theme .owl-nav .owl-next {
+  color: rgba(var(--oxpins-white-rgb), 0.2);
+  border: 2px solid rgba(var(--oxpins-white-rgb), 0.2);
+}
+
+.events-one__carousel.owl-theme .owl-nav .owl-next:hover,
+.events-one__carousel.owl-theme .owl-nav .owl-prev:hover {
+  background-color: transparent;
+  color: rgba(var(--oxpins-white-rgb), 1);
+  border: 2px solid rgba(var(--oxpins-white-rgb), 1);
+}
+
+.thm-btn:before {
+  background-color: var(--oxpins-white);
+}
+
+.thm-btn:hover {
+  color: var(--oxpins-base);
+}
+
+.feature-one__btn:hover {
+  color: var(--oxpins-black);
+}
+
+.feature-one__btn:before {
+  background-color: var(--oxpins-primary);
+}
+
+.main-menu-two .main-menu__list > li.current > a,
+.main-menu-two .main-menu__list > li.current_page_item > a,
+.main-menu-two .main-menu__list > li.current-menu-ancestor > a,
+.main-menu-two .main-menu__list > li.current-menu-item > a,
+.main-menu-two .main-menu__list > li.current-menu-page > a,
+.main-menu-two .main-menu__list > li:hover > a,
+.stricky-header.main-menu-two .main-menu__list > li.current > a,
+.stricky-header.main-menu-two .main-menu__list > li.current_page_item > a,
+.stricky-header.main-menu-two .main-menu__list > li.current-menu-ancestor > a,
+.stricky-header.main-menu-two .main-menu__list > li.current-menu-item > a,
+.stricky-header.main-menu-two .main-menu__list > li.current-menu-page > a,
+.stricky-header.main-menu-two .main-menu__list > li:hover > a {
+  color: var(--oxpins-white);
+}
+
+.brand-one .swiper-slide img {
+  opacity: 0.3;
+}
+
+/*-- Home Four --*/
+body.home-four-dark,
+body.boxed-wrapper.home-four-dark .page-wrapper {
+  background-color: var(--oxpins-black);
+}
+
+.about-five__image,
+.causes-four__progress .bar-inner::after,
+.causes-four__progress .bar,
+.testimonial-four__single,
+.testimonial-four__single::before,
+.donate-one__form__amount__btn,
+.donate-one__form__amount__input,
+.brand-four__tilte span {
+  background-color: var(--oxpins-black);
+}
+
+.main-header-four__inner {
+  background-color: transparent;
+}
+
+.become-volunteer-two .thm-btn-two,
+.site-footer-two .footer-widget__form input[type=text],
+.main-slider-four .thm-btn-two i,
+.main-header-four__btn .thm-btn,
+.causes-four__single,
+.testimonial-four__single::after,
+.donate-one,
+.team-two__single__image::after,
+.news-three__list,
+.news-three__single,
+.thm-btn-two i,
+.testimonial-four,
+.about-pillar__bg {
+  background-color: var(--oxpins-black2);
+}
+
+.causes-four__progress .count-text,
+.causes-four__goals__price,
+.causes-four__title,
+.testimonial-four__title,
+.testimonial-four__text,
+.donate-one__form__amount__btn,
+.donate-one__form__amount__input,
+.news-three__list__title,
+.news-three__single__rm,
+.news-three__single__title,
+.brand-four__tilte span,
+.become-volunteer-two .thm-btn-two,
+.site-footer-two .footer-widget__form button,
+.thm-btn-two i,
+.about-five__feature__price,
+.about-five__image__info__title,
+.about-five__image__info__text,
+.main-header-four__btn .thm-btn,
+.team-two__single__title,
+.pillar__item__title,
+.section-title__title {
+  color: var(--oxpins-white);
+}
+
+.about-five__image__info,
+.pillar__item {
+  background-color: var(--oxpins-black);
+  filter: drop-shadow(0px 4.94px 37.049px rgba(255, 255, 255, 0.06));
+}
+
+.news-three__list li,
+.news-three__single__text,
+.news-three,
+.brand-four__tilte {
+  border-color: rgba(var(--oxpins-white-rgb), 0.1);
+}
+
+.main-header-five .demo-one .thm-btn:hover,
+.main-header-four .demo-one .thm-btn:hover {
+  color: var(--oxpins-black);
+}
+
+.main-header-four .main-menu .main-menu__list > li > ul > li:hover > a,
+.main-header-four .main-menu .main-menu__list > li > ul > li > ul > li:hover > a,
+.main-header-four.stricky-header .main-menu__list > li > ul > li:hover > a,
+.main-header-four.stricky-header .main-menu__list > li > ul > li > ul > li:hover > a {
+  background-color: var(--oxpins-black2);
+}
+
+/*-- Home Five --*/
+body.home-five-dark,
+body.boxed-wrapper.home-five-dark .page-wrapper {
+  background-color: var(--oxpins-black);
+}
+
+.feature-five__item__icon,
+.testimonial-five__single,
+.testimonial-five .owl-carousel .owl-nav button {
+  background-color: var(--oxpins-black);
+}
+
+.main-header-five__inner {
+  background-color: transparent;
+}
+
+.service-one,
+.about-six__image__one::after,
+.causes-five__progress .bar-inner::after,
+.causes-five__progress .bar,
+.why-choose-one__box,
+.faq-three__image::after,
+.site-footer-three .footer-widget__form button:hover,
+.site-footer-three .footer-widget__form input[type=text],
+.main-header-five.stricky-header,
+.topbar-five::before,
+.topbar-five::after,
+.main-header-five__inner::before,
+.main-header-five::after,
+.feature-five__item__rm,
+.feature-five__inner,
+.service-one__item__normal,
+.main-slider-five__nav .swiper-button-next,
+.main-slider-five__nav .swiper-button-prev,
+.why-choose-one__box__icon,
+.faq-three__info__icon,
+.faq-three__info,
+.news-four__single__content {
+  background-color: var(--oxpins-black2);
+}
+
+.about-six__image__expriance,
+.news-four__single--reverse .news-four__single__content,
+.news-four__single__content {
+  border-color: var(--oxpins-black2);
+}
+
+.main-header-five__search,
+.main-header-five__cart,
+.main-slider-five__nav .swiper-button-next,
+.main-slider-five__nav .swiper-button-prev,
+.feature-five__item__icon,
+.feature-five__item__title,
+.about-six__content__list li,
+.service-one__item__normal__title,
+.service-one__item__normal__icon,
+.testimonial-five .owl-carousel .owl-nav button,
+.causes-five__bottom__title,
+.why-choose-one__box:hover .why-choose-one__box__icon,
+.why-choose-one__box__title,
+.faq-three__accrodion .accrodion .accrodion-title h4::after,
+.faq-three__accrodion .accrodion .accrodion-title h4,
+.faq-three__info__text,
+.faq-three__info__title,
+.news-four__single__rm,
+.news-four__single__title {
+  color: var(--oxpins-white);
+}
+
+.faq-three__accrodion .accrodion .accrodion-title h4::after {
+  border-color: var(--oxpins-white);
+}
+
+.feature-five__item__rm::after,
+.feature-five__item__rm::before {
+  background-color: var(--oxpins-white);
+}
+
+.feature-five__item,
+.faq-three__accrodion .accrodion,
+.brand-four--border {
+  border-color: rgba(var(--oxpins-white-rgb), 0.1);
+}
+
+.testimonial-five__single__quote {
+  opacity: 0.05;
+}
+
+.main-header-five .main-menu .main-menu__list > li > ul > li:hover > a,
+.main-header-five .main-menu .main-menu__list > li > ul > li > ul > li:hover > a,
+.main-header-five.stricky-header .main-menu__list > li > ul > li:hover > a,
+.main-header-five.stricky-header .main-menu__list > li > ul > li > ul > li:hover > a {
+  background-color: var(--oxpins-black2);
+}

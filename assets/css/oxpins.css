@@ -9519,6 +9519,7 @@ body.locked .page-wrapper {
 .donation-details__summary {
   position: relative;
   display: block;
+  padding: 90px;
 }
 
 .donation-details__summary-title {

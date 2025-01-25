@@ -10878,7 +10878,7 @@ body.locked .page-wrapper {
 }
 
 .about-four__img-two img {
-  width: auto;
+  width: 100%;
   border-radius: var(--oxpins-bdr-radius);
 }
 

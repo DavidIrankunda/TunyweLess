@@ -2460,9 +2460,9 @@ body.locked .page-wrapper {
 
 .main-slider__title {
   position: relative;
-  font-size: 80px;
+  font-size: 60px;
   color: var(--oxpins-white);
-  font-weight: 900;
+  font-weight: 600;
   line-height: 83px;
   letter-spacing: -0.04em;
   margin-top: 24px;
